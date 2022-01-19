@@ -1,7 +1,7 @@
 let x = 0
 let result = document.getElementById("result")
 
-function calc() {
+function math() {
     x++
     console.log(x);
     result.innerHTML = x
